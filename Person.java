@@ -1,4 +1,4 @@
-1st name: Diamaludin
+1st name: Diamaludin, Jr.
 Last name: Mariga
 echo "# SoftDesign" >> README.md
 git init
