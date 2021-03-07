@@ -1,5 +1,5 @@
 public class Main {
-  String fname = "Diamaludin";
+  String fname = "Diamaludin Jr.";
   String lname = "Mariga";
   
   public static void main(String[] args) {
