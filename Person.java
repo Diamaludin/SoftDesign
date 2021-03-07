@@ -1,7 +1,9 @@
-class Person {
-    public static void main(String[] args) {
-        System.out.println("1st name: Diamaludin "); 
-        System.out.println("last name: mariga "); 
-    }
-    }
+public class Main {
+  String fname = "Diamaludin";
+  String lname = "Mariga";
+  
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println("Name: " + myObj.fname + " " + myObj.lname);
+  }
 }
