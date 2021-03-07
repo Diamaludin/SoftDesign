@@ -4,6 +4,7 @@ public class Main {
   
   public static void main(String[] args) {
     Main myObj = new Main();
-    System.out.println("Name: " + myObj.fname + " " + myObj.lname);
+    System.out.println("First Name: " + myObj.fname);
+    System.out.println("Last Name: " + myObj.lname);
   }
 }
