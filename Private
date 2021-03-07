@@ -1,0 +1,14 @@
+public int getPerson()  
+{  
+  return Person;  
+}  
+
+public class Person {  
+    private int namelast;  
+    public int getnamelast() {  
+        return namelast;  
+    }  
+    public void setnamelast(int newnamelsat) {  
+        namelast = newnamelast;  
+    }  
+}  
